@@ -319,6 +319,25 @@ project-embedded-bomb/
 └── src/
     └── main.cpp
 </pre>
+<h2>🔬 Simulação no Tinkercad</h2>
+
+<p>
+O projeto também foi desenvolvido e testado virtualmente no
+<strong>Tinkercad</strong>, permitindo verificar o funcionamento do
+circuito antes da montagem física.
+</p>
+
+<p>
+A simulação permite testar o Arduino Uno, teclado matricial, display LCD
+e buzzer, além de validar a lógica do programa e as conexões entre os
+componentes.
+</p>
+
+<p>
+<a href="https://www.tinkercad.com/things/l9l6sf3Crzf-embedded-bomb-usc">
+🔗 Acessar a simulação no Tinkercad
+</a>
+</p>
 
 <h2>⚠️ Aviso</h2>
 
